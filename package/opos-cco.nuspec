@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Do not remove this test for UTF-8: if “Ω” doesn’t appear as greek uppercase omega letter enclosed in quotation marks, you should use an editor that supports UTF-8, not this one. -->
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>opos-cco</id>
+    <version>1.14.001</version>
+    <packageSourceUrl>https://github.com/kevinkabatra/opos-cco.1.14.001</packageSourceUrl>
+    <title>OLE Retail POS (OPOS) Common Control Object</title>
+    <authors>Curtis Monroe</authors>
+    <owners>Kevin Kabatra</owners>
+    <licenseUrl>http://monroecs.com/oposccos_legal.htm</licenseUrl>
+    <projectUrl>http://monroecs.com/oposccos.htm</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <bugTrackerUrl>https://github.com/kevinkabatra/opos-cco.1.14.001/issues</bugTrackerUrl>
+    <tags>OPOS OLE Retail POS admin</tags>
+    <summary>OLE for Retail POS consists of: 1. An architecture for Win32-based POS device access. 2. A set of POS device interfaces sufficient to support a wide range of POS solutions. Release 1.6 includeed 21 device classes.</summary>
+    <description>As a result of Curtiss Monroe and MCS' commitment to the retail community, a complete set of OPOS control objects have been developed for public use.  These are referred to as the "Common Control Objects."</description>
+    <releaseNotes>https://github.com/kevinkabatra/opos-cco.1.14.001/commits/master</releaseNotes>
+    <copyright> Copyright 2015 Monroe Consulting Services, Inc.</copyright>
+  </metadata>
+</package>
